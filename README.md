@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MientusOfficial
-- 👀 I’m interested in nuclear physics
-- 🌱 I’m currently learning nuclear phhysics
+- 👋 Hi, I’m Mientus
+- 👀 I’m interested in chemistry
+- 🌱 I’m currently learning lots of stuff
 - 💞️ I’m looking to collaborate on nuclear tech mod
 - 📫 How to reach me: discord Mientus#1940
 
